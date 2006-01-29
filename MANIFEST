@@ -1,0 +1,11 @@
+lib/Math/Telecom.pm
+lib/Math/Telecom/Constant.pm
+TODO
+README
+MANIFEST
+Makefile.PL
+INSTALL
+COPYING
+Changes
+t/01test.t
+META.yml                                 Module meta-data (added by MakeMaker)
